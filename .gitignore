@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 # Matlab extensions
-*.mlx
-*.m
+.*.mlx
+.*.m
 
 # Distribution / packaging
 .Python
