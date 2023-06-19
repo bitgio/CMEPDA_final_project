@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Matlab extensions
+*.mlx
+*.m
+
 # Distribution / packaging
 .Python
 build/
