@@ -19,7 +19,7 @@ release = '1.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx.ext.autodoc', 'nbsphinx']
+extensions = ['sphinx.ext.autodoc', 'nbsphinx', 'sphinx_gallery.load_style']
 
 templates_path = ['_templates']
 exclude_patterns = []

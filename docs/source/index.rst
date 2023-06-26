@@ -12,7 +12,6 @@ Welcome to CMEPDA_final_project's documentation!
    
    install
    api
-   ../../cnn_mammo_original
 
 
 Indices and tables
