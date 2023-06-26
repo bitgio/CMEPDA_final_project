@@ -8,4 +8,3 @@ Advanced Programming Interfaces
 
 
 .. py:module:: prova
-   
