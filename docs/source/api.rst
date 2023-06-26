@@ -6,11 +6,5 @@ Advanced Programming Interfaces
    :members:
 
 
-
-
-
-Thumbnails gallery
-==================
-
-.. nbgallery::
-   notebooks/cnn_mammo_original
+.. automodule:: prova
+   :members:
