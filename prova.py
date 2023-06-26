@@ -16,4 +16,4 @@ def create_dataset(ls):
     Return:
         The square of the input argument.
     """
-    return 23
+    return 23 * ls
