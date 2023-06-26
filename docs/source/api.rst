@@ -7,4 +7,5 @@ Advanced Programming Interfaces
 
 
 
-.. py:module:: prova
+.. automodule:: prova
+   :members:
