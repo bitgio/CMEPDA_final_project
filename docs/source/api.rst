@@ -1,8 +1,9 @@
 Advanced Programming Interfaces
 ===============================
 
-
-.. automodule:: luca
-   :members:
 .. automodule:: prova1
+   :members:
+.. automodule:: prova
+   :members:
+.. automodule:: ciao
    :members:

@@ -10,8 +10,9 @@ Welcome to CMEPDA final project's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   install
+   prova
    api
+   ciao.ipynb
 
 
 Indices and tables
