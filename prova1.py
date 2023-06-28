@@ -1,14 +1,14 @@
-def create_dataset(ls):
-    """Return the square of a given number.
 
-    Here is some text with more in-depth explanation.
 
-    Arguments
+def create_dataset(x):
+    """Function calling the Matlab file in order to filter the images
+    
+    ARGUMENTS
     ---------
-    x : float 
-        The input value
-
+    ls : list
+         Chunk of files' directory.
+         
+    
     Return:
-        The square of the input argument.
+        Dataset with all images filtered.
     """
-    return 0
