@@ -8,7 +8,9 @@ Welcome to CMEPDA_final_project's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents: 
+
+   api
 
 
 
