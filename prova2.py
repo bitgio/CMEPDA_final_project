@@ -10,8 +10,8 @@ import threading as thr
 import matplotlib.pyplot as plt
 from keras.models import Sequential
 from keras.layers import Conv2D, BatchNormalization, MaxPool2D, Dense, Flatten, InputLayer, Activation, Dropout
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import roc_curve, auc
+from scikit-learn.model_selection import train_test_split
+from scikit-learn.metrics import roc_curve, auc
 from keras.callbacks import ModelCheckpoint, ReduceLROnPlateau, EarlyStopping
 
 import matlab.engine

@@ -11,8 +11,7 @@ Welcome to CMEPDA final project's documentation!
    :caption: Contents:
    
    api
-   install
-   
+   install   
 
 Indices and tables
 ==================
