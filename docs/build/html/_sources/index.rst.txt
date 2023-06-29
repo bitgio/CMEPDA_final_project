@@ -3,23 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to CMEPDA final project's documentation!
+Welcome to CMEPDA_final_project's documentation!
 ================================================
 
 .. toctree::
    :maxdepth: 2
-<<<<<<< HEAD
-   :caption: Contents:
-   
-   api
-   install   
-=======
    :caption: Contents: 
 
    api
 
 
->>>>>>> 6ce09b68833834fe9c333f9dd8e596aef1be3a22
 
 Indices and tables
 ==================
