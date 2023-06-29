@@ -12,7 +12,10 @@ Welcome to CMEPDA final project's documentation!
    
    prova
    api
-   ciao.ipynb
+   install
+   prova1
+   prova2
+   luca
 
 
 Indices and tables

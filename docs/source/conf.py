@@ -20,7 +20,7 @@ release = '1.0'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = ['sphinx.ext.autodoc', 'nbsphinx']
-source_suffix = [".rst", ".ipynb", ".py"]
+source_suffix = [".rst", ".ipynb", ".md"]
 templates_path = ['_templates']
 exclude_patterns = []
 
@@ -31,3 +31,4 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+numpydoc_show_class_members = False

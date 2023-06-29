@@ -5,5 +5,7 @@ Advanced Programming Interfaces
    :members:
 .. automodule:: prova
    :members:
-.. automodule:: ciao
+.. automodule:: prova2
+   :members:
+.. automodule:: luca
    :members:
