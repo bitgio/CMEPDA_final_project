@@ -28,7 +28,7 @@ def create_dataset(lista, o_img, f_img, labels):
             mo, mf = eng.dataset_filtered(eng.char(os.path.join(data_folder, element)), nargout = 2)
             o_img.append(mo)
             f_img.append(mf)
-            labels.append(1)
+            labels.append(1.)
         elif "_2_resized.pgm" in element:
             mo, mf = eng.dataset_filtered(eng.char(os.path.join(data_folder, element)), nargout = 2)
             o_img.append(mo)
