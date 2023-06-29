@@ -9,3 +9,5 @@ Advanced Programming Interfaces
    :members:
 .. automodule:: luca
    :members:
+.. automodule:: cnn_original
+   :members:
