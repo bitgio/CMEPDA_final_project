@@ -10,13 +10,9 @@ Welcome to CMEPDA final project's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   prova
    api
    install
-   prova1
-   prova2
-   luca
-
+   
 
 Indices and tables
 ==================

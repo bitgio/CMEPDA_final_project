@@ -8,7 +8,7 @@
 
 import os
 import sys
-
+# DEVE PUNTARE ALLA CARTELLA DOVE C'È IL CODICE PYTHON
 sys.path.insert(0, os.path.abspath('../..'))
 
 project = 'CMEPDA final project'
