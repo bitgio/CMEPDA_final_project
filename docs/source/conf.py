@@ -8,17 +8,14 @@
 
 import os
 import sys
-<<<<<<< HEAD
 # DEVE PUNTARE ALLA CARTELLA DOVE C'È IL CODICE PYTHON
 sys.path.insert(0, os.path.abspath('../..'))
 
 project = 'CMEPDA final project'
-=======
 
 sys.path.insert(0, os.path.abspath('../..'))
 
 project = 'CMEPDA_final_project'
->>>>>>> 6ce09b68833834fe9c333f9dd8e596aef1be3a22
 copyright = '2023, Giovanni Bitonti, Ana Pascual'
 author = 'Giovanni Bitonti, Ana Pascual'
 release = '1.0'

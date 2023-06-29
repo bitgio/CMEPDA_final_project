@@ -8,18 +8,11 @@ Welcome to CMEPDA final project's documentation!
 
 .. toctree::
    :maxdepth: 2
-<<<<<<< HEAD
    :caption: Contents:
-   
    api
-   install   
-=======
-   :caption: Contents: 
-
-   api
+   install
 
 
->>>>>>> 6ce09b68833834fe9c333f9dd8e596aef1be3a22
 
 Indices and tables
 ==================
