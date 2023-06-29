@@ -22,7 +22,7 @@ def create_dataset(lista, o_img, f_img, labels):
     Return:
         Dataset with all the images filtered.
     """
-    
+     
     for element in lista:
         if "_1_resized.pgm" in element:
             mo, mf = eng.dataset_filtered(eng.char(os.path.join(data_folder, element)), nargout = 2)
