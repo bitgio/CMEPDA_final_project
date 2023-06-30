@@ -2,6 +2,7 @@ numpy
 matplotlib
 keras
 scikit-learn
+tensorflow
 
 # Defining the exact version will make sure things don't break
 sphinx==5.3.0
