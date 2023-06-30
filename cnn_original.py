@@ -52,7 +52,7 @@ def cnn_o(shape=(125, 125, 1)):
     
     model = Sequential([
         
-        Conv2D(7, (4,4), padding = 'same', input_shape = shape),
+        Conv2D(4, (3,3), padding = 'same', input_shape = shape),
         BatchNormalization(),
         Activation('relu'),
         
@@ -60,7 +60,7 @@ def cnn_o(shape=(125, 125, 1)):
         #Dropout(0.2),
         
         
-        Conv2D(8, (4,4), padding = 'same'),
+        Conv2D(7, (3,3), padding = 'same'),
         BatchNormalization(),
         Activation('relu'),
         
@@ -68,7 +68,7 @@ def cnn_o(shape=(125, 125, 1)):
         #Dropout(0.1),
         
         
-        Conv2D(10, (4,4), padding = 'same'),
+        Conv2D(10, (3,3), padding = 'same'),
         BatchNormalization(),
         Activation('relu'),
         
@@ -84,7 +84,6 @@ def cnn_o(shape=(125, 125, 1)):
     ])
     
     return model
-
 
 
 if __name__ == '__main__':
